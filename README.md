@@ -14,6 +14,11 @@
 
 ## Lessons 
  data types
+ function:
+    1 : Normal functions
+    2: Arrow functions
+    3 : Optional Parameters in function
+    4: function overloading
 
 
 
