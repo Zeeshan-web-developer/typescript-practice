@@ -13,12 +13,12 @@
 ```
 
 ## Lessons 
- data types
- function:
+ data types  </br>
+ <h4>function</h4>:  </br>
     1 : Normal functions </br>
     2: Arrow functions  </br>
-    3 : Optional Parameters in function
-    4: function overloading
+    3 : Optional Parameters in function </br>
+    4: function overloading </br>
 
 
 
