@@ -1,5 +1,22 @@
-# typescript-practice
-Typescript Practice
 
-#How to use this repo repository
-<li>1:git clone</li>
+# Typescript Practice
+
+
+
+
+## How to use this repo
+## Installation
+```bash
+  git clone
+  tsc types.ts
+  node types.js
+```
+
+## Lessons 
+ data types
+
+
+
+  
+
+    
